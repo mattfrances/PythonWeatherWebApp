@@ -7,3 +7,4 @@ A user can enter their zip or postal code to find the local weather. Created usi
 * Using Flask
 * Sending and receiving data to and from an API
 * Parsing JSON data
+* Basic Bootstrap for weather display
